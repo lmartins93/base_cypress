@@ -5,3 +5,4 @@ import Metodos from '../pageobjects/Metodos'
 const m = new Metodos
 
 Given 
+Then
